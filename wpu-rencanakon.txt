@@ -4,6 +4,7 @@ Javascript
   * cs6
   * framwork Javascripct
     ^ Vue
+    ^ React
 Struktur Data Detail 
 PHP
    ^ Laravel
