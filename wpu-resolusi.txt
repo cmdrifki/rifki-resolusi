@@ -2,3 +2,5 @@ WPU RESOLUSI
 ~ bELajar web
 ~ belajar r studio
 ~ belajar big dat 
+~ tugas big data
+~ judul big data
