@@ -2,10 +2,12 @@ Rencana Konten
 
 Javascript
   * cs6
-  * framwork
-    ^ Angular
-    ^ React 
+  * framwork Javascripct
+    ^ Vue
+    ^ React
+Struktur Data Detail 
 PHP
-    ^ Laravel
+   ^ Laravel
 Interview 
 Vlogs
+python
