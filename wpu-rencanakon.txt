@@ -3,7 +3,9 @@ Rencana Konten
 Javascript
   * cs6
   * framwork
-Struktur Data Detail 
+    ^ Angular
+    ^ React 
 PHP
+    ^ Laravel
 Interview 
 Vlogs
